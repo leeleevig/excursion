@@ -4,3 +4,12 @@ body {
   background-color: black;
   color: white;
 }
+
+h1 {
+  font-size: 50px;
+}
+
+.cta {
+  font-size: 16px;
+  color: aquamarine;
+}
